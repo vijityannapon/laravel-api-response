@@ -20,6 +20,4 @@ namespace Vijityannapon\Logs;
 interface ApiResponseInterface
 {
 
-
-
 }
